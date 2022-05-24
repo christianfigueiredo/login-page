@@ -30,4 +30,14 @@ html,body, #container{
 }
 #left{
     background-image: url("src/bg.png");
+    background-size: 100% 100%;
+    border-bottom-left-radius: 5px ;
+    border-top-left-radius: 5px ;
+}
+#left-text{
+    width: 100%;
+    text-align: center;
+}
+#left-text h1{
+    color: white;
 }
